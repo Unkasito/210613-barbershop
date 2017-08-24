@@ -1,6 +1,6 @@
 # Учебный проект «Барбершоп»
 
-* Студент: [Maria Krasnova](https://up.htmlacademy.ru/htmlcss/18/user/210613).
+* Студент: [Dima].
 
 ---
 
